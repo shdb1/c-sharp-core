@@ -1,0 +1,10 @@
+/Users/moshadab/Downloads/c-sharp-core/bin/Debug/netcoreapp3.1/c-sharp-core.deps.json
+/Users/moshadab/Downloads/c-sharp-core/bin/Debug/netcoreapp3.1/c-sharp-core.runtimeconfig.json
+/Users/moshadab/Downloads/c-sharp-core/bin/Debug/netcoreapp3.1/c-sharp-core.runtimeconfig.dev.json
+/Users/moshadab/Downloads/c-sharp-core/bin/Debug/netcoreapp3.1/c-sharp-core.dll
+/Users/moshadab/Downloads/c-sharp-core/bin/Debug/netcoreapp3.1/c-sharp-core.pdb
+/Users/moshadab/Downloads/c-sharp-core/obj/Debug/netcoreapp3.1/c-sharp-core.csprojAssemblyReference.cache
+/Users/moshadab/Downloads/c-sharp-core/obj/Debug/netcoreapp3.1/c-sharp-core.AssemblyInfoInputs.cache
+/Users/moshadab/Downloads/c-sharp-core/obj/Debug/netcoreapp3.1/c-sharp-core.AssemblyInfo.cs
+/Users/moshadab/Downloads/c-sharp-core/obj/Debug/netcoreapp3.1/c-sharp-core.dll
+/Users/moshadab/Downloads/c-sharp-core/obj/Debug/netcoreapp3.1/c-sharp-core.pdb
