@@ -5,6 +5,8 @@ namespace c_sharp_core
 {
     class Program
     {
+
+      /* 
         static void Main(string[] args)
         {
             Console.WriteLine("Delegate demo gonna start!");
@@ -21,6 +23,7 @@ namespace c_sharp_core
                     action();
         Console.WriteLine("END");
         }
+        */
       }
     }
 
